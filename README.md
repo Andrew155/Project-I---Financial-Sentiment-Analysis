@@ -1,1 +1,1 @@
-Sản phẩm của môn học project I tại Trường Công nghệ Thông tin và Truyền thông - Đại học Bách khoa Hà Nội, dưới sự hướng dẫn của PGS.TS Lê Thanh Hương. 
+Project là sản phẩm của môn học Project I tại Trường Công nghệ Thông tin và Truyền thông - Đại học Bách khoa Hà Nội, dưới sự hướng dẫn của PGS.TS Lê Thanh Hương. Sử dụng thuật toán SVM để giải quyết bài toán Phân tích cảm xúc với bộ dữ liệu về tài chính.
